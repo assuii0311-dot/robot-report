@@ -5,7 +5,8 @@ from datetime import datetime
 # ==========================================
 # [설정] 여기에 구글 시트 CSV 링크를 붙여넣으세요!
 # ==========================================
-SHEET_URL = "여기에_아까_복사한_CSV_링크를_붙여넣으세요"
+SHEET_URL = "https://docs.google.com/spreadsheets/d/1-UgtsC1edLQqidYuPTGIywS9D8sDxESOW5h3ge9v2QY/export?format=csv
+"
 
 st.set_page_config(page_title="Robot Intelligence Report", layout="wide")
 
