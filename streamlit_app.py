@@ -49,7 +49,7 @@ with st.sidebar:
 # 메인 대시보드
 # ---------------------------------------------------------
 st.title("🤖 Robot Industry Insight")
-st.markdown(f"**카카오모빌리티 로봇 사업 전략팀** | {start_date} ~ {end_date}")
+st.markdown(f"**카카오모빌리티 로봇 사업팀_luke.kw** | {start_date} ~ {end_date}")
 
 if not df.empty:
     # 날짜 필터링
